@@ -1,0 +1,41 @@
+December 18th class 2021:
+
+GIT COMMANDS:
+
+git clone https://github.com/polarapu/batch74.git
+ls
+cd batch74
+touch file1
+git status
+git add .
+git status
+git commit -m "label" file1
+git status
+git log
+git push
+
+-----------------------------------------
+git clone https://github.com/polarapu/batch74.git
+ls
+cd batch74
+touch name
+git status
+git add name
+git status
+git commit -m "sample devops file"
+git push
+git pull --rebase
+git push
+
+mkdir name-dir
+ls
+cd name-dir
+touch f1 f2 f3
+cd ..
+git status
+git add .
+git status
+git commit -m "label"
+git push
+git pull --rebase
+git push
