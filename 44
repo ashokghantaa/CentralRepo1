@@ -1,0 +1,19 @@
+alias
+-----
+git log
+git config --global alias.l "log"
+git l
+
+git log --oneline
+git config --global alias.l1 "log --oneline"
+git l1
+
+git status
+git config --global alias.s "status"
+git s
+
+git config --list
+git config --global alias.cl "config --list"
+git cl
+
+git config --global --unset alias.cl
