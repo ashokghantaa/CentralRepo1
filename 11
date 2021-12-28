@@ -6,7 +6,6 @@ git config --list
 
 git config --global --unset user.name 
 git config --global --unset user.email
-=======
 touch file1
 ls
 git status
@@ -15,14 +14,10 @@ git status
 git commit -m "label" file1
 git status
 git log
-git show cid
 
-================
 
 Branch Commands:
 
-Brach
--------
 git branch
 
 git branch branch-name
