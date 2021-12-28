@@ -1,3 +1,5 @@
+Stash
+=======
 alias
 -----
 git log
@@ -21,6 +23,7 @@ git config --global --unset alias.cl
 
 Stash:
 
+>>>>>>> main
 git stash list
 git stash save "label"
 git stash show stash@{x}
