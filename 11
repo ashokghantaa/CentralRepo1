@@ -36,20 +36,3 @@ git push path/c-repo branch-name
 
 git push origin -d branh-name  (central )
 
-
-
-
-=====================
-git clone https://github.com/polarapu/batch74.git
-ls
-cd batch74
-touch file1
-git status
-git add .
-git status
-git commit -m "label" file1
-git status
-git log
-git push
-
-
